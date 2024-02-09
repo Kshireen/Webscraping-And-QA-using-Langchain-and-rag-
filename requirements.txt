@@ -1,0 +1,8 @@
+beautifulsoup4
+chromadb
+langchain
+openai
+playwright
+tiktoken
+jq
+nest_asyncio
